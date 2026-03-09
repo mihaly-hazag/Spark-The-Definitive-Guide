@@ -1,4 +1,5 @@
 # Spark: The Definitive Guide
+## Spark version: Spark 2.0
 
 This is the central repository for all materials related to [Spark: The Definitive Guide](http://shop.oreilly.com/product/0636920034957.do) by Bill Chambers and Matei Zaharia. 
 
